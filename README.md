@@ -44,8 +44,6 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
   <img align="center" alt="Git" height="38" width="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="38" width="48" filter: invert(1)
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
   <img align="center" alt="PostgreSQL" height="38" width="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="38" width="48"
@@ -57,10 +55,10 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
 
 ### 📊 Estatísticas
 ### 🔤 Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleymaxx&layout=compact&theme=dracula)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslleymaxx&show_icons=true&theme=dracula)
 
 <p>
   
