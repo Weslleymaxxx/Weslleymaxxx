@@ -54,11 +54,17 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
 <br/>
 
 ### 📊 Estatísticas
-### 🔤 Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslleymaxxx&layout=compact&theme=dracula)
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Weslleymaxxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslleymaxxx&layout=compact&theme=dracula"
+  />
+</div>
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weslleymaxxx&show_icons=true&theme=dracula)
 
 <p>
   
