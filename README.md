@@ -8,7 +8,7 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
 
 <p align="left">
   <a href="https://www.linkedin.com/in/weslleymaxx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a>
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -56,21 +56,13 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
 <br/>
 
 ### 📊 Estatísticas
+### 🔤 Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula)
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula)
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Weslleymaxxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleymaxxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula" 
-  />
+  
 
 </p>
