@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Weslley Max, tenho 29 anos e sou natural de Natal-RN.
-Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de novas oportunidades para criar experiências digitais que encantem e solucionem problemas reais. Atualmente, estou expandindo minhas habilidades para o desenvolvimento Full Stack com foco em JavaScript, integrando design e tecnologia para entregar soluções completas.
+Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de novas oportunidades para criar experiências digitais que encantem e solucionem problemas reais. Atualmente, estou expandindo minhas habilidades para o desenvolvimento backend com foco em Java, integrando design e tecnologia para entregar soluções completas.
 
 
 <p align="left">
