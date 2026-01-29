@@ -45,7 +45,7 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
   <img align="center" alt="Git" height="38" width="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="38" width="48" filter: invert(1)
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
   <img align="center" alt="PostgreSQL" height="38" width="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="38" width="48"
@@ -63,14 +63,14 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Weslleymaxxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Weslleymaxxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleymaxxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleymaxxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula" 
   />
 
 </p>
