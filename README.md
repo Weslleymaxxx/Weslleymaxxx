@@ -15,7 +15,7 @@ Cursando Sistemas da Informação na Estácio de Sá, estou sempre em busca de n
             src="https://custom-icon-badges.demolab.com/github/stars/Weslleymaxxx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a>
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
