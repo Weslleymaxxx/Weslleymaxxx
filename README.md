@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Weslley Max
 
-**`Desenvolvedor Full Stack | Java & Web`**
+**`Desenvolvedor Backend Java`**
 
 Me chamo **Weslley Max**, tenho **29 anos** e sou natural de **Natal-RN**.  
 Cursando **Sistemas da Informação na Estácio de Sá**, estou sempre em busca de novas oportunidades para criar experiências digitais que encantem e solucionem problemas reais.
@@ -47,23 +47,17 @@ Atualmente, estou expandindo minhas habilidades para o **desenvolvimento backend
   <img align="center" alt="PostgreSQL" height="38" width="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="MySQL" height="38" width="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br> <br>
+
+  ## 🎯 Atualmente focado em
+
+- Desenvolvimento Backend com **Java e Spring Boot**
+- Criação de APIs REST
+- Boas práticas (SOLID, MVC, Clean Code)
+- Versionamento com Git
+- Integração com bancos de dados relacionais
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Weslleymaxxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslleymaxxx&layout=compact&theme=dracula"/>
-</div>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Weslleymaxxx&theme=dracula"/>
-</p>
